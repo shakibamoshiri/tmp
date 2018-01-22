@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="20">
 
-<svg width="200" height="20">
+<svg width="400" height="20">
   <polygon points="0,0 95,0 90,5 90,10 100,20 0,20, 10,10" fill="#000" />
   <polygon points="95,0 100,5 105,0 110,5 110,10 100,20 90,10 90,5" fill="#F00" >
   <polygon points="105,0 200,0 190,10 200,20 100,20 110,10 110,5" fill="#0F0" />
