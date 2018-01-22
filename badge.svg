@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="50">
-<svg width="200" height="20">
-  <polygon points="0,0 105,0 95,20 0,20" fill="#000" />
-  <polygon points="95,20 105,0 200,0 200,20" fill="#0F0" />
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="20">
+  <svg width="200" height="20">
+    <polygon points="0,0 95,0 90,5 90,10 100,20 0,20, 10,10" fill="#000" />
+    <polygon points="95,0 100,5 105,0 110,5 110,10 100,20 90,10 90,5" fill="#F00" >
+    <animate attributeName="fill" from="#FFF" to="#F00" dur="2s" fill="freeze" repeatCount="indefinite" >
+    </polygon>
+    <polygon points="105,0 200,0 190,10 200,20 100,20 110,10 110,5" fill="#0F0" />
+    <text x="15" y="15" fill="#FFF" >version</text>
+    <text x="115" y="15" fill="#000" >v1.0.0.0</text>
+  </svg>
 </svg>
