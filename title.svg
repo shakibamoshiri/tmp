@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="50">
+<svg width="900" height="50">
+  <path fill="none" 
+        stroke-width="2"
+        stroke="#F00"
+        d="M25,0 a24,24 0 0,0 0,48 l850,0 a24,24 0 0,0 0,-48 l-850,0" />
+  <text x="300" y="35"
+        style="font-family: monospace;
+             text-shadow: 3px 2px black;
+             font-size: 25px;
+             stroke: #000;
+             fill: #000;">
+    This is a title 
+    </test>
+</svg>
