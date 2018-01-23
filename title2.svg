@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="50">
+<svg width="900" height="50">
+  <path fill="#000"
+        d="M25,0 a25,25 0 0,0 0,50 l850,0 a25,25 0 0,0 0,-50 l-850,0" />
+  <text
+        x="25" y="35"
+        textLength="850px"
+        font-family="DejaVu Sans,Verdana,Geneva,sans-serif" 
+        style=" font-size: 25px; fill: #F00"
+  >
+    one two three four five six seven eight nine ten
+  </test>
+</svg>
