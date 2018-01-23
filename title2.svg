@@ -6,7 +6,7 @@
         x="25" y="35"
         textLength="850px"
         font-family="DejaVu Sans,Verdana,Geneva,sans-serif" 
-        style=" font-size: 25px; fill: #F00"
+        style=" font-size: 25px; fill: #FFF"
   >
     one two three four five six seven eight nine ten
   </test>
