@@ -19,6 +19,6 @@ Testing, Learning New Github Features
 
 
 
-<a href="www.google.com">
-![](https://github.com/k-five/tmp/blob/master/title.svg)
+<a href="https://k-five.github.io">
+<img src="https://github.com/k-five/tmp/blob/master/title.svg" />
 </a>
