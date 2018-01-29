@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="50">
-<svg width="900" height="50">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="10">
+<svg width="900" height="10">
   <title>line</title>
-  <rect x="0" y="0" width="900" height="40" stroke="red" stroke-width="40"  rx="30" ry="30" />
+  <rect x="0" y="0" width="900" height="10" rx="5" ry="5" fill="#F00" />
   </test>
 </svg>
