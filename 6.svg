@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94.1875" height="17.666667938232422"">
   <path fill="#434343" d="M0,0 37.09375,00 47.09375,8.833333969116211 37.09375,17.666667938232422 0,17.666667938232422 "></path>
-  <text fill="#FFF" x="10" y="14" font-family="monospace" font-size="15">six</text>
+  <text fill="#FFF" x="10" y="14" font-size="15">six</text>
   <path fill="#CB0000" d="M57.09375,0 94.1875,00 94.1875,8.833333969116211 94.1875,17.666667938232422 57.09375,17.666667938232422 47.09375,8.833333969116211"></path>
-  <text fill="#FFF" x="57.09375" y="14" font-family="monospace" font-size="15">six</text>
+  <text fill="#FFF" x="57.09375" y="14"  font-size="15">six</text>
 </svg>
