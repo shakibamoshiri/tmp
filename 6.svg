@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94.1875" height="17.666667938232422">
-
-  <path fill="#434343" d="M0,0 37.09375,00 47.09375,8.833333969116211 37.09375,17.666667938232422 0,17.666667938232422 "></path>
-  <text fill="#FFF" x="10" y="14" font-family="monospace" font-size="15">six</text>
-  <path fill="#CB0000" d="M57.09375,0 94.1875,00 94.1875,8.833333969116211 94.1875,17.666667938232422 57.09375,17.666667938232422 47.09375,8.833333969116211"></path>
-  <text fill="#FFF" x="57.09375" y="14" font-family="monospace" font-size="15">six</text>
-
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="274.8125" height="17.666667938232422">
+  <path fill="#FFF" d="M0,0 163.53125,00 173.53125,8.833333969116211 163.53125,17.666667938232422 0,17.666667938232422 " ></path>
+  <text fill="#FFF" x="10" y="14" font-family="monospace" font-size="15">How are you today</text>
+  <path fill="#FFF" d="M183.53125,0 274.8125,00 274.8125,8.833333969116211 274.8125,17.666667938232422 183.53125,17.666667938232422 173.53125,8.833333969116211" class="suffix"></path>
+  <text fill="#FFF" x="183.53125" y="14" font-family="monospace" font-size="15">I am fine</text>
 </svg>
