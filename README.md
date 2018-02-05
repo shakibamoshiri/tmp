@@ -30,3 +30,8 @@ Testing, Learning New Github Features
 
 
 <img src="https://github.com/k-five/tmp/blob/master/line.svg" />
+
+
+style 6:
+
+<img src="https://github.com/k-five/tmp/blob/master/6.svg" />
