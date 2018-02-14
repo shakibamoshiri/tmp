@@ -48,3 +48,7 @@ style 11:
   <summary><img src="https://github.com/k-five/tmp/blob/master/ab.svg" /></summary>
   test
 </details>
+
+  - style-1 <img src="https://github.com/k-five/tmp/blob/master/ab.svg" />  
+  - style-2 <img src="https://github.com/k-five/tmp/blob/master/ab.svg" />  
+  
