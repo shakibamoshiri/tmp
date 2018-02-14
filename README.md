@@ -42,3 +42,9 @@ style 6:
 
 style 11:  
 <img src="https://github.com/k-five/tmp/blob/master/11.svg" />
+
+
+<details>
+  <summary>All badges</summary>
+  test
+</details>
