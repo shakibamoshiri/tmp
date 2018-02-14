@@ -45,6 +45,6 @@ style 11:
 
 
 <details>
-  <summary>All badges</summary>
+  <summary><imp src="https://github.com/k-five/tmp/blob/master/ab.svg" /></summary>
   test
 </details>
