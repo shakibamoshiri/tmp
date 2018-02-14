@@ -52,3 +52,26 @@ style 11:
   - style-1 <img src="https://github.com/k-five/tmp/blob/master/ab.svg" />  
   - style-2 <img src="https://github.com/k-five/tmp/blob/master/ab.svg" />  
   
+
+
+<hr>
+
+<table>                                                                                                                                                                                                
+    <tr>                                                                                                                                                                                               
+      <th>style</th>                                                                                                                                                                                   
+      <th>sample</th>                                                                                                                                                                                  
+      <th>suffix-repetition</th>                                                                                                                                                                       
+      <th>change-size</th>                                                                                                                                                                             
+      <th>background-color</th>                                                                                                                                                                        
+      <th>foreground-color</th>                                                                                                                                                                        
+    </tr>                                                                                                                                                                                              
+    <tr>                                                                                                                                                                                               
+      <td>1</td>                                                                                                                                                                                       
+      <td><img src="https://github.com/k-five/tmp/blob/master/ab.svg" /></td>                                                                                                                          
+      <td>unlimited</td>                                                                                                                                                                               
+      <td>unlimited</td>                                                                                                                                                                               
+      <td>unlimited</td>                                                                                                                                                                               
+      <td>white</td>                                                                                                                                                                                   
+    </tr>                                                                                                                                                                                              
+</table>                                                                                                                                                                                               
+         
