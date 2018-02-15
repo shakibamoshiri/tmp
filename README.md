@@ -80,3 +80,8 @@ style 11:
 
 TC=  
 <img src="https://github.com/k-five/tmp/blob/master/tc.svg" /> 
+
+
+<hr>
+
+<img src="https://github.com/k-five/tmp/blob/master/l.svg" /> 
