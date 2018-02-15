@@ -79,4 +79,4 @@ style 11:
 <hr>
 
 TC=  
-<imp src="https://github.com/k-five/tmp/blob/master/tc.svg" /> 
+<img src="https://github.com/k-five/tmp/blob/master/tc.svg" /> 
