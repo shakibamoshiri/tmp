@@ -85,3 +85,6 @@ TC=
 <hr>
 
 <img src="https://github.com/k-five/tmp/blob/master/l.svg" /> 
+
+test sof  
+<img src="https://raw.githubusercontent.com/k-five/tmp/master/6.svg?sanitize=true" />
