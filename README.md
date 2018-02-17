@@ -57,22 +57,27 @@ style 11:
 <hr>
 
 <table>                                                                                                                                                                                                
-    <tr>                                                                                                                                                                                               
-      <th>style</th>                                                                                                                                                                                   
+    <tr>                                                                                                                                                                                                                                                                                         
       <th>sample</th>                                                                                                                                                                                  
       <th>suffix-repetition</th>                                                                                                                                                                       
       <th>change-size</th>                                                                                                                                                                             
-      <th>background-color</th>                                                                                                                                                                        
-      <th>foreground-color</th>                                                                                                                                                                        
+      <th>change bg/fg-color</th>                                                                                                                                                                        
+      <th>seperation</th>                                                                                                                                                                        
     </tr>                                                                                                                                                                                              
-    <tr>                                                                                                                                                                                               
-      <td>1</td>                                                                                                                                                                                       
+    <tr>                                                                                                                                                                              
       <td><img src="https://github.com/k-five/tmp/blob/master/ab.svg" /></td>                                                                                                                          
-      <td>unlimited</td>                                                                                                                                                                               
-      <td>unlimited</td>                                                                                                                                                                               
-      <td>unlimited</td>                                                                                                                                                                               
-      <td>white</td>                                                                                                                                                                                   
-    </tr>                                                                                                                                                                                              
+      <td>Yes</td>                                                                                                                                                                               
+      <td>Yes</td>                                                                                                                                                                               
+      <td>Yes</td>                                                                                                                                                                               
+      <td>Yes</td>                                                                                                                                                                                   
+    </tr>                                                                                                                             
+      <tr>                                                                                                                                                                              
+      <td><img src="https://github.com/k-five/tmp/blob/master/ab.svg" /></td>                                                                                                                          
+      <td>Yes</td>                                                                                                                                                                               
+      <td>undefined</td>                                                                                                                                                                               
+      <td>Yes</td>                                                                                                                                                                               
+      <td>undefined</td>                                                                                                                                                                                   
+    </tr>  
 </table>                                                                                                                                                                                               
          
 
