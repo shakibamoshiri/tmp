@@ -90,4 +90,10 @@ test sof
 <img src="https://raw.githubusercontent.com/k-five/tmp/master/6.svg?sanitize=true" />
 
 
-<img src="https://raw.githubusercontent.com/k-five/tmp/master/dlm.svg?sanitize=true" />
+<img src="https://raw.githubusercontent.com/k-five/tmp/master/dlm.svg" />
+
+<img src="https://raw.githubusercontent.com/k-five/tmp/master/S.svg" />
+
+<img src="https://raw.githubusercontent.com/k-five/tmp/master/T.svg" />
+
+<img src="https://raw.githubusercontent.com/k-five/tmp/master/F.svg" />
