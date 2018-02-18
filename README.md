@@ -9,7 +9,7 @@
 
 <body id="body">
 
-
+<img scr="S.svg" />
 
 </body>
 </html>
