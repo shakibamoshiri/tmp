@@ -98,12 +98,15 @@ test sof
 
  1. `bt G`  
  2. `badge 9 'theme::G::github'`
- 3. <img src="https://github.com/k-five/tmp/blob/master/dlm.svg" />  
+ 3. result: <img src="https://github.com/k-five/tmp/blob/master/dlm.svg" />  
  
+<h3> stack-overflow</h3>
+
  1. `bt S`  
  2. `badge 9 'theme::S::github'`
- 3.  <img src="https://github.com/k-five/tmp/blob/master/S.svg" />  
+ 3. result:  <img src="https://github.com/k-five/tmp/blob/master/S.svg" />  
  
+ <h3> stack-overflow</h3>
  
  - <img src="https://github.com/k-five/tmp/blob/master/T.svg" />  
  - <img src="https://github.com/k-five/tmp/blob/master/F.svg" />  
