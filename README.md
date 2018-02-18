@@ -1,8 +1,11 @@
 # tmp
 Testing, Learning New Github Features  
 
- <img src="https://github.com/k-five/tmp/blob/master/air.1.svg" /> 
-
+<img src="https://github.com/k-five/tmp/blob/master/air.1.svg" /> 
+<span>
+<img src="https://github.com/k-five/tmp/blob/master/air.2.svg" />
+<img src="https://github.com/k-five/tmp/blob/master/air.3.svg" />
+</span>
 
 
 <h1>
