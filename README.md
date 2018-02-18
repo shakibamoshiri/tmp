@@ -9,9 +9,7 @@
 <body id="body">
     <h1>h1 tag</h1>
     <div id="airplane">
-        <img alt="show this" src="air.1.svg"/><br>
-        <img alt="show this" src="air.2.svg"/>
-        <img alt="show this" src="air.3.svg"/>
+    one, two, three, four, five
     </div>
 </body>
 </html>
