@@ -11,7 +11,7 @@
     <h1>h1 tag</h1>
     <div id="airplane">
     <details>
-      <summary>Copyright 1999-2014.</summary>
+        <summary><h1>Copyright 1999-2014.</h1></summary>
       <p> - by Refsnes Data. All Rights Reserved.</p>
       <p>All content and graphics on this web site are the property of the company Refsnes Data.</p>
     </details>
