@@ -10,7 +10,9 @@
 <body id="body">
 <div>
     <h1>h1 tag</h1>
-    <img alt="show this" src="S.svg"/>
+    <img alt="show this" src="air.1.svg"/><br>
+    <img alt="show this" src="air.2.svg"/>
+    <img alt="show this" src="air.3.svg"/>
 </div>
 </body>
 </html>
