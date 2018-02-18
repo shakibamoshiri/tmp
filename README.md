@@ -95,7 +95,7 @@ test sof
 <img src="https://raw.githubusercontent.com/k-five/tmp/master/6.svg?sanitize=true" />
 
 
- - <img src="https://github.com/k-five/tmp/blob/master/dlm.svg" />  
+ - <img src="https://github.com/k-five/tmp/blob/master/dlm.svg" />  `bt G`, then `badge 9 'theme::G::github'`  
  - <img src="https://github.com/k-five/tmp/blob/master/S.svg" />  
  - <img src="https://github.com/k-five/tmp/blob/master/T.svg" />  
  - <img src="https://github.com/k-five/tmp/blob/master/F.svg" />  
