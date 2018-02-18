@@ -9,7 +9,7 @@
 
 <body id="body">
 
-<img scr="S.svg" />
+<img scr="https://github.com/k-five/tmp/blob/master/S.svg" />
 
 </body>
 </html>
