@@ -10,7 +10,7 @@
 <body id="body">
 <div>
     <h1>h1 tag</h1>
-    <img scr="https://github.com/k-five/tmp/blob/master/S.svg" />
+    <img alt="show this" src="S.svg"/>
 </div>
 </body>
 </html>
