@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="294.8125" height="17.600000381469727" class="svg">
   <title>badge-for-git. Style: 0</title>
     <path fill="#434343" d="M5,0 137.40625,0 132.40625,4.400000095367432 132.40625,8.800000190734863 142.40625,17.600000381469727 10,17.600000381469727 0,8.800000190734863 0,4.400000095367432"></path>
-    <text fill="#FFF" x="10" y="14" font-family="monospace" font-size="15">badge-for-git</text>
+    <text fill="#FFF" x="10" y="14" font-family="Source code variable" font-size="15">badge-for-git</text>
     <path fill="#FF0000" d="M137.40625,0 142.40625,4.400000095367432 147.40625,0 152.40625,4.400000095367432 152.40625,8.800000190734863 142.40625,17.600000381469727 132.40625,8.800000190734863 132.40625,4.400000095367432"></path>
     <path fill="#00CB00" d="M147.40625,0 279.8125,0 284.8125,4.400000095367432 284.8125,8.800000190734863 269.8125,17.600000381469727 142.40625,17.600000381469727 152.40625,8.800000190734863 152.40625,4.400000095367432"></path>
-    <text fill="#FFF" x="157.40625" y="14" font-family="monospace" font-size="15">BADGE-FOR-GIT</text>
+    <text fill="#FFF" x="157.40625" y="14" font-family="Source code variable" font-size="15">BADGE-FOR-GIT</text>
 </svg>
