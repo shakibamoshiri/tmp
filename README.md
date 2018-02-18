@@ -1,8 +1,7 @@
 <!DOCTYPE HTML>
 <html id="html" lang="en-US">
 <head>
-    <title id="title">
-    </title>
+
     <meta charset="UTF-8">
     <meta name="description" content="An abstraction of Terminal Emulator with Javascript that handles some commands like, ls, cd, cat, date, etc">
     <meta name="keywords"    content="HTML ,CSS, JavaScript">
