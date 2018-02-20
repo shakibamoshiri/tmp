@@ -11,3 +11,6 @@
 
 <hr>
 <img src="line5-900px-%230FF.svg" />
+
+<hr>
+<img src="line5-900px-%23CB0000.svg" />
