@@ -29,3 +29,12 @@
 
 <hr>
 <img src="/line5-912px-%2380F.svg" />
+
+<hr>
+<img src="line4-900px-%2380F.svg" />
+
+<hr>
+<img src="line5-900px-%23777.svg" />
+
+<hr>
+<img src="line5-900px-%23AAA.svg" />
