@@ -38,3 +38,6 @@
 
 <hr>
 <img src="line5-900px-%23AAA.svg" />
+
+<hr>
+<img src="line5-900px-%23CCC.svg" />
