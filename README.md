@@ -28,4 +28,4 @@
 <img src="line5-882px-%2380F.svg" />
 
 <hr>
-<img src"/line5-912px-%2380F.svg" />
+<img src="/line5-912px-%2380F.svg" />
