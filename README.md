@@ -28,3 +28,15 @@
 <hr>
 
 <img src="head7.svg" />
+
+<hr>
+
+<img src="head8.svg" />
+
+<hr>
+
+<img src="head9.svg" />
+
+<hr>
+
+<img src="head10.svg" />
