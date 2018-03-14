@@ -5,3 +5,6 @@
 
 <img src="head1.svg" />
 
+<hr>
+
+<img src="head2.svg" />
