@@ -38,8 +38,9 @@
 <img src="head9.svg" />
 
 <hr>
-
+<p align="center">
 <img src="head10.svg" />
+</p>
 
 <hr>
 
@@ -50,4 +51,6 @@
 
 <hr>
 
-<img  align="center" src="head13.svg" />
+<img  src="head13.svg" />
+
+
