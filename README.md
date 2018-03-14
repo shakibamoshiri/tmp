@@ -20,3 +20,11 @@
 <hr>
 
 <img src="head5.svg" />
+
+<hr>
+
+<img src="head6.svg" />
+
+<hr>
+
+<img src="head7.svg" />
