@@ -50,4 +50,4 @@
 
 <hr>
 
-<img src="head13.svg" />
+<img  align="center" src="head13.svg" />
