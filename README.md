@@ -1,6 +1,18 @@
 <p align="center">
   <img src="psa.svg" />
-  </p>
+</p>
+
+<br>
+<p align="center">
+  <img src="jsmyadmin.svg" />
+</p>
+<br>
+<p align="center">It involves:</p>
+<br>
+<p align="center">
+  <img src="allinone.svg" />
+</p>
+<p align="center">and a good start if you wnat to learn them in practice</p>
 
 <img src="jsMyAdmin.png" />
 
