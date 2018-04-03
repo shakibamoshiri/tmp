@@ -12,6 +12,9 @@
 <p align="center">
   <img src="allinone.svg" />
 </p>
+<p align="center">
+  <img src="allinone2.svg" />
+</p>
 <p align="center">and a good start if you wnat to learn them in practice</p>
 
 <img src="jsMyAdmin.png" />
