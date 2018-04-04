@@ -5,7 +5,7 @@
 <br>
 <p align="center">
   <img src="jsmyadmin.svg" /> <br> <br>
-  is a web-app that with the help of: <br> <br>
+  A simple web-app that with the help of: <br> <br>
   <img src="js.svg" /> <br>
   <img src="html.svg" /> <br>
   <img src="ajax.svg" /> <br>
@@ -13,8 +13,8 @@
   <img src="php.svg" /> <br>
   <img src="json.svg" /> <br>
   <img src="mysql.svg" /> <br> <br>
-  tries to help you so<br>
-  you have a better experience<br>
+  will try to help you so<br>
+  you can have a better experience<br>
   when you want to use a console-like<br>
   app to deal with MySql or other databases.<br>
   
