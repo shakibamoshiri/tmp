@@ -9,11 +9,11 @@
   <br>
   <img src="js.svg" />
   <br>
+  <img src="ajax.svg" />
+  <br>  
   <img src="html.svg" />
   <br>
   <img src="css.svg" />
-  <br>
-  <img src="ajax.svg" />
   <br>
   <img src="php.svg" />
   <br>
