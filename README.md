@@ -13,8 +13,8 @@
   <img src="php.svg" /> <br>
   <img src="json.svg" /> <br>
   <img src="mysql.svg" /> <br> <br>
-  will try to help you so<br>
-  you can have a better experience<br>
+  will try to help you, so you<br>
+  can have a better experience<br>
   when you want to use a console-like<br>
   app to deal with MySql or other databases.<br>
   
