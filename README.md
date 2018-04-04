@@ -5,17 +5,13 @@
 <br>
 <p align="center">
   <img src="jsmyadmin.svg" />
-</p>
-<br>
-<p align="center">It involves:</p>
-<br>
-<p align="center">
+  <br>
+  <br>
+  <img src="allinone2.svg" />
   <img src="allinone.svg" />
 </p>
-<p align="center">
-  <img src="allinone2.svg" />
-</p>
-<p align="center">and a good start if you wnat to learn them in practice</p>
+<br>
+
 
 <img src="jsMyAdmin.png" />
 
