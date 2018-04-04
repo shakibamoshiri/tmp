@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="psa.svg" />
+  <a href="https://github.com/k-five">
+    <img src="home.svg" />
+  </a>
+  <img src="demo.svg" />
+  <a href="#lisence">
+    <img src="lisence.svg" />
+  </a>
 </p>
 
 <br>
@@ -57,7 +63,7 @@
 
 <hr>
 
-<img src="head7.svg" />
+<img id="lisence" src="head7.svg" />
 
 <hr>
 
