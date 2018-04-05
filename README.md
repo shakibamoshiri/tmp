@@ -11,7 +11,7 @@
   <a href="#demo">
     <img src="js/screenshot.svg" />
   </a>
-  <a href="#demo">
+  <a href="mailto:shakiba.moshiri@yahoo.com">
     <img src="js/contact_me.svg" />
   </a>  
   <a href="#license">
