@@ -100,6 +100,6 @@
 
 <hr>
 
-<img  id="lisence"  src="head13.svg" />
+<img  id="license"  src="head13.svg" />
 
 
