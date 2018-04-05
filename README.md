@@ -1,6 +1,15 @@
 <p align="center">
   <a href="https://github.com/k-five">
-    <img src="b1.svg" />
+    <img src="js/home.svg" />
+  </a>
+  <a href="https://github.com/k-five">
+    <img src="js/prerequisite.svg" />
+  </a>
+  <a href="#demo">
+    <img src="js/demo.svg" />
+  </a>
+  <a href="#license">
+    <img src="js/license.svg" />
   </a>
 </p>
 
@@ -10,14 +19,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/k-five">
-    <img src="home.svg" />
-  </a>
-  <img src="demo.svg" />
-  <a href="#lisence">
-    <img src="lisence.svg" />
-  </a>
-</p>
+
 
 <br>
 <p align="center">
@@ -74,7 +76,7 @@
 
 <hr>
 
-<img id="lisence" src="head7.svg" />
+<img id="demo" src="head7.svg" />
 
 <hr>
 
@@ -98,6 +100,6 @@
 
 <hr>
 
-<img  src="head13.svg" />
+<img  id="lisence"  src="head13.svg" />
 
 
