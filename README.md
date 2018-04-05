@@ -8,6 +8,12 @@
   <a href="#demo">
     <img src="js/demo.svg" />
   </a>
+  <a href="#demo">
+    <img src="js/screenshot.svg" />
+  </a>
+  <a href="#demo">
+    <img src="js/contact_me.svg" />
+  </a>  
   <a href="#license">
     <img src="js/license.svg" />
   </a>
