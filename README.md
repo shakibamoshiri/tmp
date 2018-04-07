@@ -26,6 +26,7 @@
 <p align="center">
   <img src="js/s1.svg" />
   <img src="js/s2.svg" />
+  <img src="js/s3.svg" />
 
 </p>
 
