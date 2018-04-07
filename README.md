@@ -42,6 +42,18 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="s31.svg" />
+  <img src="js/s32.svg" />
+  <img src="js/s33.svg" />
+  <img src="js/s34.svg" />
+</p>
+
+<br>
+<br>
+<br>
+
+
 
 
 <p align="center">
