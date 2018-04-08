@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="w/create.svg" />
+  <img src="w/create2.svg" />
 </p>
 
 <br>
