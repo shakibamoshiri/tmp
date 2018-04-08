@@ -42,13 +42,7 @@
 <br>
 <br>
 <br>
-<p align="center">
-  <img src="js/s11.svg" />
-  <img src="js/s22.svg" />
-</p>
 
-<br>
-<br>
 <br>
 
 <p align="center">
