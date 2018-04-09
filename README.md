@@ -10,13 +10,11 @@
 <br>
 <h1 align="center">Prerequisite</h1>
 <p align="center">
-  ╔═ ○ ═════ ○ ═════ ○ ═════ ○ ═╗<br>
-  <a href="">demo</a> | 
-  <s>prereqiusite</s> | 
-  <a href="">three</a> | 
-  <a href="">four</a> | 
+  <a href="">demo</a> ○
+  <s>prereqiusite</s> ○ 
+  <a href="">bottom</a> ○ 
+  <a href="">top</a> ○
   <a href="">license</a> <br>
-  ╚═ ○ ═════ ○ ═════ ○ ═════ ○ ═╝
 </p>
 
 <br>
