@@ -8,14 +8,15 @@
 <br>
 <br>
 <br>
+<h1 align="center">Prereqisite</h1>
 <p align="center">
-  ╔═ ○ ═════ ○ ═════○ ═╗<br>
+  ╔═ ○ ═════ ○ ═════ ○ ═════ ○ ═╗<br>
   <a href="">demo</a> | 
-  <strong>prereqisite</strong> | 
+  <s>prereqisite</s> | 
   <a href="">three</a> | 
   <a href="">four</a> | 
   <a href="">license</a> <br>
-  ╚═ ○ ═════ ○ ═════○ ═╝
+  ╚═ ○ ═════ ○ ═════ ○ ═════ ○ ═╝
 </p>
 
 <br>
