@@ -9,10 +9,10 @@
 <br>
 <br>
 <br>
-<h1 align="center">Prerequisite</h1>
+<h1 align="center">prerequisite</h1>
 <p align="center">
   &#9898; <a href="">demo</a>
-  &#9899; prereqiusite
+  &#9899; prerequisite
   &#9898; <a href="">bottom</a>
   &#9898; <a href="">top</a>
   &#9898; <a href="">license</a>
