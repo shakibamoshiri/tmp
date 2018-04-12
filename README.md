@@ -177,9 +177,5 @@
   can have a better experience<br>
   when you want to use a console-like<br>
   app to deal with MySql or other databases.<br>
-  
-  If it exists, use it; <br>
-  if it does not exist, create it; <br>
-  if you can not create it, imagine it. <br>
 </p>
 <br>
