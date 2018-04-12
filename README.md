@@ -1,14 +1,18 @@
 
+<h1 align="center">prerequisite</h1>
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-  &nbsp;prerequisite&nbsp;|
-  &nbsp;&nbsp;&nbsp;&nbsp;license&nbsp;&nbsp;&nbsp;
+  &#9634; <a href="">demo</a>
+  &#9635; prerequisite
+  &#9634; <a href="">bottom</a>
+  &#9634; <a href="">top</a>
+  &#9634; <a href="">license</a>
 </p>
-&#9898;
-&#9899;
+
 <br>
 <br>
 <br>
+<hr>
+
 <h1 align="center">prerequisite</h1>
 <p align="center">
   &#9898; <a href="">demo</a>
