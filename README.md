@@ -1,11 +1,11 @@
 
 <h1 align="center">prerequisite</h1>
 <p align="center">
-  &#9634; <a href="">demo</a>
+  <a href="">&#9634; demo</a>
   &#9635; prerequisite
-  &#9634; <a href="">bottom</a>
-  &#9634; <a href="">top</a>
-  &#9634; <a href="">license</a>
+  <a href="">&#9634; bottom</a>
+  <a href="">&#9634; top</a>
+  <a href="">&#9634; license</a>
 </p>
 
 <br>
