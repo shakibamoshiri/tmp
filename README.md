@@ -1,3 +1,8 @@
+<img src="./ft/01.svg" />
+<img src="./ft/02.svg" />
+
+<br>
+
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
