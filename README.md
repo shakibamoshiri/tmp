@@ -1,3 +1,23 @@
+
+
+| style | sample               | command                   |  
+|-------|----------------------|---------------------------|  
+|     1 | <img src="js.svg" /> | `badge 1 "prefix:suffix`  |  
+|     2 |                      | `badge 2 "prefix:suffix`  |  
+|     3 |                      | `badge 3 "prefix:suffix`  |  
+|     4 |                      | `badge 4 "prefix:suffix`  |  
+|     5 |                      | `badge 5 "prefix:suffix`  |  
+|     6 |                      | `badge 6 "prefix:suffix`  |  
+|     7 |                      | `badge 7 "prefix:suffix`  |  
+|     8 |                      | `badge 8 "prefix:suffix`  |  
+|     9 |                      | `badge 9 "prefix:suffix`  |  
+|    10 |                      | `badge 10 "prefix:suffix` |  
+  
+
+
+
+<hr>
+
 <img src="./ft/01.svg" />
 <img src="./ft/02.svg" />
 
