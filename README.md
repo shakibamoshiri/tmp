@@ -1,17 +1,19 @@
 
 
-| style | command                   | sample               | suffix-repetition | separation |
+
+| style | command                   | result               | suffix-repetition | separation |
 |-------|---------------------------|----------------------|-------------------|------------|
-|     1 | `badge 1 "prefix:suffix`  | <img src="js.svg" /> | &#9989;           | &#9989;    |
-|     2 | `badge 2 "prefix:suffix`  |                      | &#10062;          | &#10062;   |
-|     3 | `badge 3 "prefix:suffix`  |                      | &#9989;           | &#9989;    |
-|     4 | `badge 4 "prefix:suffix`  |                      | &#10062;          | &#10062;   |
-|     5 | `badge 5 "prefix:suffix`  |                      | &#9989;           | &#9989;    |
-|     6 | `badge 6 "prefix:suffix`  |                      | &#9989;           | &#9989;    |
-|     7 | `badge 7 "prefix:suffix`  |                      | &#9989;           | &#9989;    |
-|     8 | `badge 8 "prefix:suffix`  |                      | &#9989;           | &#9989;    |
-|     9 | `badge 9 "prefix:suffix`  |                      | &#9989;           | &#9989;    |
-|    10 | `badge 10 "prefix:suffix` |                      | &#10062;          | &#10062;   |
+|     1 | `badge 1 "prefix:suffix`  | <img src="js.svg" /> | &#10004;          | &#9989;    |
+|     2 | `badge 2 "prefix:suffix`  |                      | &#10005;          | &#10005;   |
+|     3 | `badge 3 "prefix:suffix`  |                      | &#10004;          | &#10004;   |
+|     4 | `badge 4 "prefix:suffix`  |                      | &#10005;          | &#10005;   |
+|     5 | `badge 5 "prefix:suffix`  |                      | &#10004;          | &#10004;   |
+|     6 | `badge 6 "prefix:suffix`  |                      | &#10004;          | &#10004;   |
+|     7 | `badge 7 "prefix:suffix`  |                      | &#10004;          | &#10004;   |
+|     8 | `badge 8 "prefix:suffix`  |                      | &#10004;          | &#10004;   |
+|     9 | `badge 9 "prefix:suffix`  |                      | &#10004;          | &#10004;   |
+|    10 | `badge 10 "prefix:suffix` |                      | &#10005;          | &#10005;   |
+
 
 
   
