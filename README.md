@@ -1,4 +1,6 @@
+<img src="background.svg" />
 
+<hr/>
 
 
 | style | command                   | result               | suffix-repetition | separation |
