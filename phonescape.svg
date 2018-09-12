@@ -1,23 +1,70 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 500" width="900" height="500" id="home-icon">
-	<text font-size="100px" x="0" y="200"  font-family="IndieFlower" >phonescape</text>
-
-	<defs>
-	   <pattern id="grid10" x="0" y="0" width="12.5%" height="12.5%">
-		 <path fill="none" stroke="#000" stroke-width="0.5" d="M0,6 6,6 6,0" />
-	   </pattern>
-	 </defs>
-	 <defs>
-	   <pattern id="grid24" x="0" y="0" width="50%" height="50%">
-		 <path fill="none" stroke="#F00" stroke-width="1" d="M0,24 24,24 24,0" />
-	   </pattern>
-	 </defs>
-	 <rect  x="0" y="0" width="48" height="48" fill="url(#grid24)"></rect>
-	 <rect  x="0" y="0" width="48" height="48" fill="url(#grid10)"></rect>
-
-	<style type="text/css" ><![CDATA[
-		@font-face {
-		   font-family: "IndieFlower";
-		   src: url( "fonts/Indie_Flower/IndieFlower.ttf" ) format( "truetype" );
-		}
-	]]></style>
+    <g>
+        <rect x="100" y="0" width="10px" height="500px" fill="#F00" ></rect>
+        <text x="100" y="250" text-anchor="middle" font-size="50" transform="rotate(270,90,250)">body</text>
+        <text x="140" y="250" text-anchor="middle" font-size="20" transform="rotate(270,130,250)">background-color: #F00;</text>
+    </g>
+    <g>
+        <rect x="200" y="0" width="10px" height="500px" fill="#0FF" ></rect>
+        <text x="200" y="250" text-anchor="middle" font-size="45" transform="rotate(270,190,250)">phone</text>
+        <text x="240" y="250" text-anchor="middle" font-size="20" transform="rotate(270,230,250)">background-color: #0FF;</text>
+    </g>
+    <g>
+        <rect x="300" y="0" width="10px" height="500px" fill="#000" ></rect>
+        <text x="300" y="250" text-anchor="middle" font-size="45" transform="rotate(270,290,250)">screen</text>
+        <text x="340" y="250" text-anchor="middle" font-size="20" transform="rotate(270,330,250)">background-image: url(file.svg);</text>
+    </g>
+    <g>
+        <rect x="400" y="0" width="10px" height="400px" fill="#CCC" ></rect>
+        <text x="450" y="250" text-anchor="middle" font-size="45" transform="rotate(270,390,250)">display</text>
+        <text x="470" y="250" text-anchor="middle" font-size="20" transform="rotate(270,430,250)">background-color: transparent;</text>
+        <rect x="400" y="400" width="10px" height="100px" fill="#323232" ></rect>
+        <text x="200" y="250" text-anchor="middle" font-size="30" transform="rotate(270,390,250)">menu</text>
+    </g>
+    <g fill="#F0F">
+        <rect x="500" y="0" width="10px" height="400px" fill="#CCC" ></rect>
+        <text x="550" y="250" text-anchor="middle" font-size="40" transform="rotate(270,490,250)">app-03</text>
+        <text x="570" y="250" text-anchor="middle" font-size="15" transform="rotate(270,530,250)">background-color: #FFF; display: none;</text>
+    </g>
+    <g fill="#F0F">
+        <rect x="600" y="0" width="10px" height="400px" fill="#CCC" ></rect>
+        <text x="650" y="250" text-anchor="middle" font-size="40" transform="rotate(270,590,250)">app-02</text>
+        <text x="670" y="250" text-anchor="middle" font-size="15" transform="rotate(270,630,250)">background-color: #FFF; display: none;</text>
+    </g>
+    <g fill="#F0F">
+        <rect x="700" y="0" width="10px" height="400px" fill="#CCC" ></rect>
+        <text x="750" y="250" text-anchor="middle" font-size="40" transform="rotate(270,690,250)">app-01</text>
+        <text x="780" y="250" text-anchor="middle" font-size="15" transform="rotate(270,730,250)">background-color: transparent; display: block;</text>
+    </g>
+    <g fill="#FA9000">
+        <rect x="800" y="0" width="10px" height="100px" fill="#" rx="10" ></rect>
+        <text x="960" y="250" text-anchor="" font-size="20" transform="rotate(270,790,250)">icon-02</text>
+        <rect x="800" y="200" width="10px" height="100px" fill="#" rx="10" ></rect>
+        <text x="760" y="250" text-anchor="" font-size="20" transform="rotate(270,790,250)">icon-03</text>
+        <rect x="800" y="400" width="10px" height="100px" fill="#" rx="10" ></rect>
+        <text x="560" y="250" text-anchor="" font-size="20" transform="rotate(270,790,250)">icon-01</text>
+        <text x="860" y="250" text-anchor="middle" font-size="15" transform="rotate(270,850,250)">background-image: url(files.svg);</text>
+        <path stroke="#000" stroke-width="3px" d="M820,50 a3,3 0 1,1 0,-1 v200 a3,3 0 1,1 0,-1 v200 a3,3 0 1,1 0,-1"></path>
+    </g>
+    
+    <defs>
+       <pattern id="grid10" x="0" y="0" width="11.11%" height="20%"> 
+         <path fill="none" stroke="#000" stroke-width="3" d="M0,100 100,100 100,0" /> 
+       </pattern> 
+     </defs> 
+     <defs> 
+       <pattern id="grid24" x="0" y="0" width="5.56%" height="10%"> 
+         <path fill="none" stroke="#F00" stroke-width="1" d="M0,50 50,50 50,0" /> 
+       </pattern> 
+     </defs> 
+<!--     <rect  x="0" y="0" width="900" height="500" fill="url(#grid24)"></rect> -->
+<!--     <rect  x="0" y="0" width="900" height="500" fill="url(#grid10)"></rect>-->
+    
+    <style type="text/css" ><![CDATA[
+        @font-face {
+	       font-family: "IndieFlower";
+	       src: url( "website/fonts/Indie_Flower/IndieFlower.ttf" ) format( "truetype" );
+        }
+    ]]></style>
 </svg>
+
