@@ -1,3 +1,8 @@
+<img src="phonescape.svg" />
+<br>
+<hr>
+<br>
+
 <img src="background.svg" />
 
 <hr/>
