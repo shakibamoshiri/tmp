@@ -1,4 +1,4 @@
-<img src="phonescape.svg" />
+<img src="phonescape-result.svg" />
 <br>
 <hr>
 <br>
