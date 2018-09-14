@@ -1,4 +1,4 @@
-<img src="phonescape-result.svg" />
+<img src="https://raw.githubusercontent.com/k-five/tmp/master/phonescape-result.svg?sanitize=true" />
 <br>
 <hr>
 <br>
