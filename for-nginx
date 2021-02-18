@@ -10,3 +10,5 @@ When we config the git-server run these two commands first:
 sudo -u git git config --global user.email "hi@shakiba.net"
 sudo -u git git config --global user.name "Shakiba Moshiri"
 user should be git not 
+
+this is is for check Repository name
