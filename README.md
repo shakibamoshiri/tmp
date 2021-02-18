@@ -1,6 +1,7 @@
 # this is for TEST
 
 
+
 <img src="https://raw.githubusercontent.com/k-five/tmp/master/phonescape-result.svg?sanitize=true" />
 <br>
 <hr>
@@ -39,6 +40,8 @@
 
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
+- [ ] Open a pull request
+- [ ] Open a pull request
 - [ ] Open a pull request
 
 <br>
