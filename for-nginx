@@ -4,3 +4,9 @@ this is line 3
 this is line 4
 this is line 5
 this is line 6
+
+
+When we config the git-server run these two commands first:
+sudo -u git git config --global user.email "hi@shakiba.net"
+sudo -u git git config --global user.name "Shakiba Moshiri"
+user should be git not 
