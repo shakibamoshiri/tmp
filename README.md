@@ -1,6 +1,16 @@
 # this is for TEST
 
 
+Telegram group: https://t.me/OpGFW
+
+> [!CAUTION]
+> This project is still in very early stages of development. Use at your own risk.
+
+> [!NOTE]
+> We are looking for contributors to help us with this project, especially implementing analyzers for more protocols!!!
+
+--- 
+
 
 <img src="https://raw.githubusercontent.com/k-five/tmp/master/phonescape-result.svg?sanitize=true" />
 <br>
