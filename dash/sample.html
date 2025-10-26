@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>prox</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link href="soma.min.css" rel="stylesheet">
+    <link href="custom.css" rel="stylesheet">
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <style></style>
+</head>
+<body>
+
+<div class="soma prox">
+    <div class="carousel-z">
+        <input id="carousel-z-switch-1" type="radio" name="carousel-z-switch-group-1" checked="checked">
+        <input id="carousel-z-switch-2" type="radio" name="carousel-z-switch-group-1">
+        <div class="carousel-z-indicator">
+            <label for="carousel-z-switch-1">Home</label>
+            <label for="carousel-z-switch-2">Support</label>
+       </div>
+        <section class="carousel-z-item">
+        <div id="Stat" class="carousel-y">
+            <input id="carousel-y-switch-1" type="radio" name="carousel-y-switch-group-1" checked="checked" />
+            <input id="carousel-y-switch-2" type="radio" name="carousel-y-switch-group-1" />
+            <input id="carousel-y-switch-3" type="radio" name="carousel-y-switch-group-1" />
+            <div class="carousel-y-indicator">
+                <label for="carousel-y-switch-1" data-switch-title="Stat" data-switch-guide="" class="switch-title hover switch-guide" data-child="0"></label>
+                <label for="carousel-y-switch-2" data-switch-title="Apps" data-switch-guide="" class="switch-title hover switch-guide" data-child="1"></label>
+                <label for="carousel-y-switch-3" data-switch-title="Config" data-switch-guide="" class="switch-title hover switch-guide" data-child="2"></label>
+            </div>
+            <section id="user-data" class="carousel-y-item">
+                <div>
+                    <h1><span id="user-bytes">0</span></h1>
+                    <p id="user-bytes-unit">?</p>
+                    <h1><span id="user-seconds">0</span></h1>
+                    <p id="user-seconds-unit">?</p>
+                    <h1><span id="user-sessions">0</span></h1>
+                    <p>sessions</p>
+                </div>
+            </section>
+            <section id="Apps" class="carousel-y-item">
+                <div class="carousel-x">
+                    <input id="carousel-x-switch-1" type="radio" name="carousel-x-switch-group-2" checked="checked" />
+                    <input id="carousel-x-switch-2" type="radio" name="carousel-x-switch-group-2" />
+                    <input id="carousel-x-switch-3" type="radio" name="carousel-x-switch-group-2" />
+                    <input id="carousel-x-switch-4" type="radio" name="carousel-x-switch-group-2" />
+                    <div class="carousel-x-indicator">
+                        <label for="carousel-x-switch-1" data-switch-title="Android" class="switch-title hover animation"></label>
+                        <label for="carousel-x-switch-2" data-switch-title="iOS" class="switch-title hover animation"></label>
+                        <label for="carousel-x-switch-3" data-switch-title="Windows" class="switch-title hover animation"></label>
+                        <label for="carousel-x-switch-4" data-switch-title="MacOS" class="switch-title hover animation"></label>
+                    </div>
+                    <section class="carousel-x-item">
+                        <div class="content">
+                        <h1>Android</h1>
+                        <h3>64-bit</h3>
+                        <a href="https://github.com/SagerNet/sing-box/releases/download/v1.12.10/SFA-1.12.10-arm64-v8a.apk">1.12.10-arm64-v8a.apk</a>
+                        <h3>32-bit</h3>
+                        <a href="https://github.com/SagerNet/sing-box/releases/download/v1.12.10/SFA-1.12.10-armeabi-v7a.apk">1.12.10-armeabi-v7a.apk</a>
+                        <h3>Universal</h3>
+                        <a href="https://github.com/SagerNet/sing-box/releases/download/v1.12.10/SFA-1.12.10-universal.apk">1.12.10-universal.apk</a>
+                    </section>
+                    <section class="carousel-x-item">
+                        
+                        <div class="content">
+                        <h1>iOS</h1>
+                        <p>iOS 15.0+ / macOS 13.0+ / Apple tvOS 17.0+</p>
+                        <a href="https://apps.apple.com/us/app/sing-box-vt/id6673731168">apple store</a>
+                        </div>
+                        </section>
+                    <section class="carousel-x-item">
+                        <div class="content">
+                        <h1>Windows</h1>
+                        <p>Working in progress</p>
+                        </div>
+                        </section>
+                    <section class="carousel-x-item">
+                        <div class="content">
+                        <h1>MacOS</h1>
+                        <a href="https://formulae.brew.sh/cask/sfm">sfm</a>
+                        </div>
+                    </section>
+                </div>
+            </section>
+            <section id="Config" class="carousel-y-item">
+                <div class="carousel-x">
+                    <input id="carousel-x-switch-5" type="radio" name="carousel-x-switch-group-3" checked="checked" />
+                    <input id="carousel-x-switch-6" type="radio" name="carousel-x-switch-group-3" />
+                    <div class="carousel-x-indicator">
+                        <label for="carousel-x-switch-5" data-switch-title="Link" class="switch-title hover animation"></label>
+                        <label for="carousel-x-switch-6" data-switch-title="QR" class="switch-title hover animation"></label>
+                    </div>
+                    <section id="Link" class="carousel-x-item">
+                        <div class="content">
+                            <h1>Link</h1>
+                            <p>Your remote profile link:</p>
+                            <button class="js-copy-btn">Copy Link</button>
+                            <input onclick="this.select();" type='text'  class="text-to-copy" value="http://192.168.2.10:8000/shm/0955059c18/f4a097660b"/>
+                        </div>
+                    </section>
+                    <section id="QR" class="carousel-x-item">
+                        <div class="content">
+                            <h1>QR</h1>
+                            <p>Your QR code:</p>
+                            <img src="0955059c18.png" alt="">
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+    </section>
+    <section class="carousel-z-item">
+        <div class="content">
+            <h1>support</h1>
+            <p>github: github.com/shakibamoshir/prox</h2>
+            <p>telegram: @tuntap</h2>
+        </div>
+    </section>
+</div>
+
+
+<script type="text/javascript" src="main.js"></script>
+<script type="text/javascript" src="cheval.min.js"></script>
+
+</body>
+</html>
+
